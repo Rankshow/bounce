@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.ball{
+   width: 20px;
+   height: 20px;
+   display: block;
+   margin-right: auto;
+   margin-left: auto;
+   background: linear-gradient(rgba(9, 9, 98, 0.2), rgba(3, 20, 50, 0.5), rgba(50, 50, 50, 1));
+   border-radius: 90%;
+}
+.ball2{
+    width: 20px;
+    height: 20px;
+    background: linear-gradient(rgba(100, 20, 100, 0.2), rgba(300, 20, 50, 0.5), rgba(50, 50, 50, 1));
+    border-radius: 90%;
+ }
